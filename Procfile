@@ -1,1 +1,1 @@
-alphax: python -m alphax
+worker: bash alphax

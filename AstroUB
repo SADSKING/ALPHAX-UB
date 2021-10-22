@@ -37,10 +37,15 @@ _set_bot () {
     rm -rf "$zippath"
     sleep 5
     cd $ASTROPATH
-    echo "🔭•Starting Service of αℓρнαχ•🛰️🛸"
+    echo "🔭•Starting Service of Astro•🛰️🛸"
     echo """
-    © คɭקђคא  ©
-Hi
+    © A S T R O ©
+╔═══╦═══╦════╦═══╦═══╗
+║╔═╗║╔═╗║╔╗╔╗║╔═╗║╔═╗║
+║║─║║╚══╬╝║║╚╣╚═╝║║─║║
+║╚═╝╠══╗║─║║─║╔╗╔╣║─║║
+║╔═╗║╚═╝║─║║─║║║╚╣╚═╝║
+╚╝─╚╩═══╝─╚╝─╚╝╚═╩═══╝
     """
     
     

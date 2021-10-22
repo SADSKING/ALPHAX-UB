@@ -1,6 +1,3 @@
-googletrans
-cryptg
-skimage
 emoji==0.6.0
 nospamplus 
 cowpy

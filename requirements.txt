@@ -1,6 +1,6 @@
 googletrans
 cryptg
-carbonnow
+scikit-image
 emoji==0.6.0
 nospamplus 
 cowpy
